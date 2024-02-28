@@ -1,0 +1,19 @@
+torch
+torchvision
+tqdm
+matplotlib
+ipywidgets
+ipykernel
+ftfy
+requests
+regex
+omegaconf==2.0.0
+pytorch-lightning==1.0.8
+einops
+imageio
+openai-clip
+taming-transformers
+pickleshare
+# python-dotenv
+# wandb
+# distutils 
